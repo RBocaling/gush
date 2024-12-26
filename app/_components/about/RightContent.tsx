@@ -21,12 +21,6 @@ const RightContent = () => {
           life.
         </p>
         {/* <br /> */}
-        <p className="neon-text-p text-[3.5rem] md:text-3xl  tracking-wider leading-[5rem] text-[#f1eeee] m-10">
-          Join the "Gushers," a vibrant community sharing memes, strategies, and
-          creativity around virtual campfires. Together, we’re building a future
-          that’s not just DeFi-driven but filled with joy, rewards, and endless
-          possibilities.
-        </p>
       </div>
     </motion.div>
   );
