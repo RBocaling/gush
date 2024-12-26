@@ -40,7 +40,7 @@ const Home = () => {
             </h1>
 
             <h1 className="neon-text-extra text-[4rem] md:text-[1.2rem] font-bold text-left mb-4">
-              BEARISH CHARM
+              Liquid Bear
             </h1>
             <div className="relative overflow-hidden w-full mt-2 mb-5">
               <div className=" slide-infinite mx-7 bg-transparent">

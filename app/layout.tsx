@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./_styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "BasedMeg",
-  description: "Basedmeg, Mog's Girlfriend",
+  title: "GUSH",
+  description: "Liquid Bear",
   openGraph: {
     images: {
       url: "./thumbnail.jpg",

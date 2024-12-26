@@ -11,7 +11,7 @@ const RightContent = () => {
       className="w-[65%] right flexColStart   md:translate-x-[150px]"
     >
       <h1 className="neon-text-title text-[6rem] md:text-[4.5rem] font-bold flexCenter gap-7">
-        WHAT IS <span className="underline">$MEG</span>
+        WHAT IS <span className="underline">$GUSH</span>
       </h1>
       <div className=" max-w-[450px] md:max-w-[800px] ">
         <p className="neon-text-p text-[3.5rem] md:text-3xl  tracking-wider leading-[5rem] text-[#f1eeee] m-10">
